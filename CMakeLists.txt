@@ -3,4 +3,12 @@ project(injeUniv_OOP)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(injeUniv_OOP src/HelloWorld.cpp)
+add_executable(injeUniv_OOP src/HelloWorld.cpp
+        src/3week/3-1.cpp
+        src/3week/3-2.cpp
+        src/3week/3-3.cpp
+        src/3week/3-4.cpp
+        src/3week/3-5.cpp
+        src/3week/3-6.cpp
+        src/3week/3-7.cpp
+        src/3week/3-8.cpp)
