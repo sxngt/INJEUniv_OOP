@@ -13,4 +13,5 @@ add_executable(injeUniv_OOP src/HelloWorld.cpp
         src/3week/3-7.cpp
         src/3week/3-8.cpp
         src/3week/3-9.cpp
-        src/3week/3-10.cpp)
+        src/3week/3-10.cpp
+        src/4week/4-1.cpp)
