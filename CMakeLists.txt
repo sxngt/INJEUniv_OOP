@@ -15,4 +15,5 @@ add_executable(injeUniv_OOP src/HelloWorld.cpp
         src/3week/3-9.cpp
         src/3week/3-10.cpp
         src/4week/4-1.cpp
-        src/4week/referenceWrapperRefCref.cpp)
+        src/4week/referenceWrapperRefCref.cpp
+        src/4week/uniquePtr.cpp)
