@@ -19,4 +19,7 @@ add_executable(injeUniv_OOP src/HelloWorld.cpp
         src/4week/uniquePtr.cpp
         src/4week/cycleReference.cpp
         src/4week/weakPtr.cpp
-        src/4week/enableShared.cpp)
+        src/4week/enableShared.cpp
+        src/5week/containerConstructor.cpp
+        src/5week/containerSize.cpp
+        src/5week/containerAccess.cpp)
